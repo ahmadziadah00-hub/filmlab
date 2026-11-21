@@ -1,0 +1,13 @@
+Film Lab - Kodak looks (portra-160, portra-400, portra-800, gold-200, ultramax-400, ektar-100,
+ektachrome-100, kodachrome-64, vision3-250d, vision3-500t .json)
+
+Derived from spektrafilm by Andrea Volpato
+https://github.com/andreavolpato/spektrafilm
+Licensed CC BY-SA 4.0 (see SPEKTRAFILM_LICENSE.txt). Modified by Film Lab.
+
+Changes: the spektrafilm profiles (spectral sensitivities, characteristic curves, dye and base
+densities) of each film, and of the print stock it is printed on (Portra Endura paper, 2383 print
+film), drive a simplified spectral model that is baked into a 40^3 3D LUT (input: F-Log2 scene
+code, output: sRGB). Negatives print through their status-M densities; a simple inter-layer effect,
+a grey balance and a light per-film colour cast are added. tri-x-400.json is not derived from
+spektrafilm (hand-built tone model).

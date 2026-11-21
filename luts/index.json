@@ -1,0 +1,429 @@
+{
+ "size": 40,
+ "domain": 0.9,
+ "sims": [
+  {
+   "id": "provia",
+   "key": "PROVIA",
+   "label": "PROVIA",
+   "sub": "Standard",
+   "kind": "color",
+   "source": "official",
+   "pack": "fuji"
+  },
+  {
+   "id": "velvia",
+   "key": "Velvia",
+   "label": "Velvia",
+   "sub": "Vivid",
+   "kind": "color",
+   "source": "official",
+   "pack": "fuji"
+  },
+  {
+   "id": "astia",
+   "key": "ASTIA",
+   "label": "ASTIA",
+   "sub": "Soft",
+   "kind": "color",
+   "source": "official",
+   "pack": "fuji"
+  },
+  {
+   "id": "classic-chrome",
+   "key": "CLASSIC-CHROME",
+   "label": "CLASSIC CHROME",
+   "sub": "",
+   "kind": "color",
+   "source": "official",
+   "pack": "fuji"
+  },
+  {
+   "id": "reala-ace",
+   "key": "REALA-ACE",
+   "label": "REALA ACE",
+   "sub": "",
+   "kind": "color",
+   "source": "official",
+   "pack": "fuji"
+  },
+  {
+   "id": "pro-neghi",
+   "key": "PRO-Neg.Hi",
+   "label": "PRO Neg. Hi",
+   "sub": "",
+   "kind": "color",
+   "source": "derived",
+   "pack": "fuji"
+  },
+  {
+   "id": "pro-negstd",
+   "key": "PRO-Neg.Std",
+   "label": "PRO Neg. Std",
+   "sub": "",
+   "kind": "color",
+   "source": "official",
+   "pack": "fuji"
+  },
+  {
+   "id": "classic-neg",
+   "key": "CLASSIC-Neg.",
+   "label": "CLASSIC Neg.",
+   "sub": "",
+   "kind": "color",
+   "source": "official",
+   "pack": "fuji"
+  },
+  {
+   "id": "nostalgic-neg",
+   "key": "NOSTALGIC-Neg.",
+   "label": "NOSTALGIC Neg.",
+   "sub": "",
+   "kind": "color",
+   "source": "hand-built",
+   "pack": "fuji"
+  },
+  {
+   "id": "eterna",
+   "key": "ETERNA",
+   "label": "ETERNA",
+   "sub": "Cinema",
+   "kind": "color",
+   "source": "official",
+   "pack": "fuji"
+  },
+  {
+   "id": "eterna-bb",
+   "key": "ETERNA-BB",
+   "label": "ETERNA BLEACH BYPASS",
+   "sub": "",
+   "kind": "color",
+   "source": "official",
+   "pack": "fuji"
+  },
+  {
+   "id": "acros",
+   "key": "ACROS",
+   "label": "ACROS",
+   "sub": "",
+   "kind": "mono",
+   "source": "official",
+   "pack": "fuji"
+  },
+  {
+   "id": "acros-ye",
+   "key": "ACROS+Ye",
+   "label": "ACROS + Ye",
+   "sub": "",
+   "kind": "mono",
+   "source": "derived",
+   "pack": "fuji"
+  },
+  {
+   "id": "acros-r",
+   "key": "ACROS+R",
+   "label": "ACROS + R",
+   "sub": "",
+   "kind": "mono",
+   "source": "derived",
+   "pack": "fuji"
+  },
+  {
+   "id": "acros-g",
+   "key": "ACROS+G",
+   "label": "ACROS + G",
+   "sub": "",
+   "kind": "mono",
+   "source": "derived",
+   "pack": "fuji"
+  },
+  {
+   "id": "monochrome",
+   "key": "MONOCHROME",
+   "label": "MONOCHROME",
+   "sub": "",
+   "kind": "mono",
+   "source": "derived",
+   "pack": "fuji"
+  },
+  {
+   "id": "monochrome-ye",
+   "key": "MONOCHROME+Ye",
+   "label": "MONOCHROME + Ye",
+   "sub": "",
+   "kind": "mono",
+   "source": "derived",
+   "pack": "fuji"
+  },
+  {
+   "id": "monochrome-r",
+   "key": "MONOCHROME+R",
+   "label": "MONOCHROME + R",
+   "sub": "",
+   "kind": "mono",
+   "source": "derived",
+   "pack": "fuji"
+  },
+  {
+   "id": "monochrome-g",
+   "key": "MONOCHROME+G",
+   "label": "MONOCHROME + G",
+   "sub": "",
+   "kind": "mono",
+   "source": "derived",
+   "pack": "fuji"
+  },
+  {
+   "id": "sepia",
+   "key": "SEPIA",
+   "label": "SEPIA",
+   "sub": "",
+   "kind": "mono",
+   "source": "derived",
+   "pack": "fuji"
+  },
+  {
+   "id": "portra-160",
+   "key": "Portra 160",
+   "label": "Portra 160",
+   "sub": "",
+   "kind": "color",
+   "brand": "kodak",
+   "scene": 1,
+   "source": "spektrafilm",
+   "file": "luts/portra-160.json",
+   "base": {
+    "grain": {
+     "grain": 22,
+     "grainSize": 1.0,
+     "grainRough": 40,
+     "grainColor": 20,
+     "grainS": 90,
+     "grainM": 100,
+     "grainH": 50
+    }
+   }
+  },
+  {
+   "id": "portra-400",
+   "key": "Portra 400",
+   "label": "Portra 400",
+   "sub": "",
+   "kind": "color",
+   "brand": "kodak",
+   "scene": 1,
+   "source": "spektrafilm",
+   "file": "luts/portra-400.json",
+   "base": {
+    "grain": {
+     "grain": 32,
+     "grainSize": 1.05,
+     "grainRough": 45,
+     "grainColor": 22,
+     "grainS": 90,
+     "grainM": 100,
+     "grainH": 50
+    }
+   }
+  },
+  {
+   "id": "portra-800",
+   "key": "Portra 800",
+   "label": "Portra 800",
+   "sub": "",
+   "kind": "color",
+   "brand": "kodak",
+   "scene": 1,
+   "source": "spektrafilm",
+   "file": "luts/portra-800.json",
+   "base": {
+    "grain": {
+     "grain": 45,
+     "grainSize": 1.2,
+     "grainRough": 50,
+     "grainColor": 25,
+     "grainS": 90,
+     "grainM": 100,
+     "grainH": 50
+    }
+   }
+  },
+  {
+   "id": "gold-200",
+   "key": "Gold 200",
+   "label": "Gold 200",
+   "sub": "",
+   "kind": "color",
+   "brand": "kodak",
+   "scene": 1,
+   "source": "spektrafilm",
+   "file": "luts/gold-200.json",
+   "base": {
+    "grain": {
+     "grain": 36,
+     "grainSize": 1.1,
+     "grainRough": 50,
+     "grainColor": 25,
+     "grainS": 90,
+     "grainM": 100,
+     "grainH": 50
+    }
+   }
+  },
+  {
+   "id": "ultramax-400",
+   "key": "UltraMax 400",
+   "label": "UltraMax 400",
+   "sub": "",
+   "kind": "color",
+   "brand": "kodak",
+   "scene": 1,
+   "source": "spektrafilm",
+   "file": "luts/ultramax-400.json",
+   "base": {
+    "grain": {
+     "grain": 45,
+     "grainSize": 1.2,
+     "grainRough": 55,
+     "grainColor": 28,
+     "grainS": 90,
+     "grainM": 100,
+     "grainH": 50
+    }
+   }
+  },
+  {
+   "id": "ektar-100",
+   "key": "Ektar 100",
+   "label": "Ektar 100",
+   "sub": "",
+   "kind": "color",
+   "brand": "kodak",
+   "scene": 1,
+   "source": "spektrafilm",
+   "file": "luts/ektar-100.json",
+   "base": {
+    "grain": {
+     "grain": 16,
+     "grainSize": 0.9,
+     "grainRough": 35,
+     "grainColor": 15,
+     "grainS": 90,
+     "grainM": 100,
+     "grainH": 50
+    }
+   }
+  },
+  {
+   "id": "ektachrome-100",
+   "key": "Ektachrome 100",
+   "label": "Ektachrome 100",
+   "sub": "Slide",
+   "kind": "color",
+   "brand": "kodak",
+   "scene": 1,
+   "source": "spektrafilm",
+   "file": "luts/ektachrome-100.json",
+   "base": {
+    "grain": {
+     "grain": 16,
+     "grainSize": 0.9,
+     "grainRough": 35,
+     "grainColor": 15,
+     "grainS": 80,
+     "grainM": 100,
+     "grainH": 60
+    }
+   }
+  },
+  {
+   "id": "kodachrome-64",
+   "key": "Kodachrome 64",
+   "label": "Kodachrome 64",
+   "sub": "Slide",
+   "kind": "color",
+   "brand": "kodak",
+   "scene": 1,
+   "source": "spektrafilm",
+   "file": "luts/kodachrome-64.json",
+   "base": {
+    "grain": {
+     "grain": 20,
+     "grainSize": 0.9,
+     "grainRough": 40,
+     "grainColor": 10,
+     "grainS": 80,
+     "grainM": 100,
+     "grainH": 60
+    }
+   }
+  },
+  {
+   "id": "tri-x-400",
+   "key": "Tri-X 400",
+   "label": "Tri-X 400",
+   "sub": "",
+   "kind": "mono",
+   "brand": "kodak",
+   "scene": 1,
+   "source": "hand-built",
+   "file": "luts/tri-x-400.json",
+   "base": {
+    "grain": {
+     "grain": 62,
+     "grainSize": 1.35,
+     "grainRough": 65,
+     "grainColor": 0,
+     "grainS": 100,
+     "grainM": 100,
+     "grainH": 55
+    }
+   }
+  },
+  {
+   "id": "vision3-250d",
+   "key": "Vision3 250D",
+   "label": "Vision3 250D",
+   "sub": "Cinema",
+   "kind": "color",
+   "brand": "kodak",
+   "scene": 1,
+   "source": "spektrafilm",
+   "file": "luts/vision3-250d.json",
+   "base": {
+    "grain": {
+     "grain": 26,
+     "grainSize": 1.0,
+     "grainRough": 45,
+     "grainColor": 20,
+     "grainS": 90,
+     "grainM": 100,
+     "grainH": 50
+    }
+   }
+  },
+  {
+   "id": "vision3-500t",
+   "key": "Vision3 500T",
+   "label": "Vision3 500T",
+   "sub": "Cinema",
+   "kind": "color",
+   "brand": "kodak",
+   "scene": 1,
+   "source": "spektrafilm",
+   "file": "luts/vision3-500t.json",
+   "base": {
+    "grain": {
+     "grain": 42,
+     "grainSize": 1.15,
+     "grainRough": 50,
+     "grainColor": 25,
+     "grainS": 90,
+     "grainM": 100,
+     "grainH": 50
+    },
+    "hal": 35
+   }
+  }
+ ]
+}
